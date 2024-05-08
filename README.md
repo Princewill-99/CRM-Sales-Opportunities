@@ -2,6 +2,10 @@
 ## PROJECT OVERVIEW
 This project was done to analyze the effectiveness of the CRM strategy adopted by this company, a seller of computer hardware. The analysis was done using a B2B sales pipeline data. CRM (Customer Relationship Management) is the aspect of business involving how a company manages its relationships and interactions with customers and potential customers. This project focuses on analyzing how successful this company was in closing sales with other companies – it is a Business to Business (B2B) analysis.
 ## DATA SOURCES
+1. accounts.csv - contains details of the companies which purchased products from the supplier.
+2. products.csv - table containing details of each product.
+3. sales_teams.csv - contains details of each sales team including sales agents and their managers.
+4. sales_pipeline.csv - contains records of each sales opportunity.
 ## TOOLS USED
 -	Microsoft Excel – Data cleaning, inspection and preparation
 -	Postgres (SQL) – Data Analysis
